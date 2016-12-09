@@ -2,6 +2,10 @@
 
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
+# Deprecated
+
+This repo has been moved [here](https://github.com/electrode-io/electrode/tree/762edbafdcd083dbdb0a7978682a08b85b8e8640/packages/electrode-redux-router-engine)
+
 Handle async data for React Server Side Rendering using [react-router], Redux, and the [Redux Server Rendering] pattern.
 
 ## Install
